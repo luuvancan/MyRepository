@@ -7,4 +7,4 @@ The format is base on [Keep a changelog](https://keepachangelog.com/en/1.0.0/) ,
 
 **Changed**
 
-..* Update and imrovement of Polish translation from [@m-aciek](https://github.com/m-aciek).
+* Update and imrovement of Polish translation from [@m-aciek](https://github.com/m-aciek).
