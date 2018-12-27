@@ -8,3 +8,23 @@ The format is base on [Keep a changelog](https://keepachangelog.com/en/1.0.0/) ,
 **Changed**
 
 * Update and imrovement of Polish translation from [@m-aciek](https://github.com/m-aciek).
+
+## [1.0.0](https://github.com/m-aciek)-2017-06-20
+
+**Added**
+
+* New visual identify by [@tylerforrune8](https://github.com/m-aciek)
+
+* Verson navigation
+
+* Links to latest relased version in previous versions.
+
+* "Why keep the changelog?" section.
+
+* "Who need a changelog?" section.
+
+* "How do I make a changelog?" section.
+
+* "Frequently Ask Question" section.
+
+
