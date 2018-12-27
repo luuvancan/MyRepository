@@ -91,6 +91,12 @@ The format is base on [Keep a changelog](https://keepachangelog.com/en/1.0.0/) ,
 
 **Changed**
 
+**Added**
+
+* Answer "Shound you ever rewrite a change log?".
+
+
+
 
 
 
