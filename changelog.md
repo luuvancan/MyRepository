@@ -1,3 +1,6 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 The format is base on [Keep a changelog](https://keepachangelog.com/en/1.0.0/) , and this project adheres to [Sermantic Versoning](https://semver.org/) .
+[##Unreleased](https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...HEAD)
+**Changed**
+*Update and imrovement of Polish translation from [@m-aciek](https://github.com/m-aciek).
