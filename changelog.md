@@ -99,15 +99,15 @@ The format is base on [Keep a changelog](https://keepachangelog.com/en/1.0.0/) ,
 _sdas_
 >sdas
 
-Tô đậm : *Tô đậm*
+Tô đậm : ***Tô đậm
 
-In nghiêng: _In nghiêng_
+In nghiêng: ___In nghiêng_
 
-Gạch chân: +Gạch chân+
+Gạch chân: +++Gạch chân+++
 
-Gạch ngang chữ: -Gạch ngang chữ-
+Gạch ngang chữ: ---Gạch ngang chữ---
 
-Quote: ??Quote??
+Quote: ???Quote???
 
 
 
