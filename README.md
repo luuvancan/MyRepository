@@ -26,4 +26,3 @@ có 4 tính chất của java trong OOP:
 
 |Class||Object|
 |-||-|
-
