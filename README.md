@@ -25,7 +25,7 @@ có 4 tính chất của java trong OOP:
   3. ***So sánh sự khác nhau và giống nhau giữa class và object:*** 
   
 |  	|  	|  	|  	|  	|
-|-|:-:	|---	|---	|---	|
+|-|-|-|-|-|
 |  	|  	|  	|  	|  	|
 |  	|  	|  	|  	|  	|
 |  	|  	|  	|  	|  	|
