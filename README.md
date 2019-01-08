@@ -26,5 +26,5 @@ có 4 tính chất của java trong OOP:
 
 |Class||Object|
 |-||-|
-| - Là khuân mẫu để tạo ra các đối tượng| | - Là thể hiện của một class|
-| - Là nhóm các đối tượng tương tự nhau| | - Là thự thể của class ở thể giới thực|
+| Là khuân mẫu để tạo ra các đối tượng| | Là thể hiện của một class|
+| Là nhóm các đối tượng tương tự nhau| | Là thự thể của class ở thể giới thực|
