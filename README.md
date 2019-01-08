@@ -24,5 +24,5 @@ có 4 tính chất của java trong OOP:
   2.***Object:*** là thể hiện của class. Một thực thể có các trạng thái hành vi gọi là đối tượng.
   3. ***So sánh sự khác nhau và giống nhau giữa class và object:*** 
   
-|  	|  	|  	|  	|  	|
-|-|-|-|-|-|
+||
+|-|
